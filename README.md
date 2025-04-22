@@ -17,7 +17,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 [Se você tiver outros projetos menores ou projetos em diferentes áreas, você pode listá-los aqui.]
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KLL7)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KLL7&show_icons=true&theme=dark)
 
 ## Contato
 
