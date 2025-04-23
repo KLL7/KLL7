@@ -4,21 +4,23 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 ## Sobre Mim
 
-[Escreva uma breve descrição sobre você aqui. Por exemplo: Sou um estudante de [área] apaixonado por [tecnologia/interesse]. Atualmente estou aprendendo sobre [tópico] e trabalhando em projetos relacionados a [projetos].]
+Oi! Sou Kayo Lucas Lima, tenho 17 anos, e atualmente estou realizando meu curso técnico em Tecnologia da Informação em uma escola de ensino médio com curso técnico integrado. Durante meu curso, aprofundei-me no desenvolvimento de sistemas, adquirindo experiência em Java, NodeJS, Python, MySQL, PostgreSQL, MariaDB, Git, GitHub e GitLab. Possuo o objetivo de iniciar minha carreira na área de TI como Desenvolvedor Back-End Júnior.
 
-## Projetos Principais
+Habilidades:
 
-* **[Nome do Projeto 1]:** [Uma breve descrição do projeto. O que ele faz? Quais tecnologias você usou?]
-* **[Nome do Projeto 2]:** [Uma breve descrição do projeto.]
-* **[Nome do Projeto 3]:** [Uma breve descrição do projeto.]
+- Desenvolvimento Back-End: Experiência com Java, NodeJS e Python.
+- Gerenciamento de Bancos de Dados: Conhecimento em MySQL, PostgreSQL e MariaDB.
+- Controle de Versão: Familiaridade com Git, GitHub e GitLab.
+- Lógica de Programação: Essencial para o desenvolvimento de sistemas eficientes.
+- Resolução de Problemas: Habilidade crucial na identificação e correção de falhas em código.
 
-## Outros Projetos
-
-[Se você tiver outros projetos menores ou projetos em diferentes áreas, você pode listá-los aqui.]
+  
+<img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJS"> <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"> <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"> <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"> <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"> <img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab">
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KLL7&show_icons=true&theme=dark)
+![Link para as estatísticas gerais](https://github-readme-stats.vercel.app/api?username=KLL7&theme=transparent&bg_color=282a36&border_color=6272a4&show_icons=true&icon_color=6272a4&title_color=f8f8f2&text_color=f8f8f2)
+![Link para as linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KLL7&layout=compact&bg_color=161a2b&border_color=4a566a&title_color=f8f8f2&text_color=cdd6f4)
 
 ## Contato
 
-[Se você quiser, pode adicionar links para seu LinkedIn, e-mail ou outras formas de contato.]
+email: kayolldev@gmail.com
