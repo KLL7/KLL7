@@ -26,5 +26,5 @@ Habilidades:
 
 ## Contato
 
-email: kayolldev@gmail.com
-salesforce: https://www.salesforce.com/trailblazer/kayolucas
+- email: kayolldev@gmail.com
+- salesforce: https://www.salesforce.com/trailblazer/kayolucas
