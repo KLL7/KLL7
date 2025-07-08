@@ -23,8 +23,8 @@ Habilidades:
 
 ## Estatísticas do GitHub
 ![Link para as estatísticas gerais](https://github-readme-stats.vercel.app/api?username=KLL7&theme=transparent&bg_color=282a36&border_color=6272a4&show_icons=true&icon_color=6272a4&title_color=f8f8f2&text_color=f8f8f2)
-![Link para as linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KLL7&layout=compact&bg_color=161a2b&border_color=4a566a&title_color=f8f8f2&text_color=cdd6f4)
 
 ## Contato
 
 email: kayolldev@gmail.com
+salesforce: https://www.salesforce.com/trailblazer/kayolucas
