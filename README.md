@@ -16,7 +16,7 @@ Habilidades:
 - Resolução de Problemas: Habilidade crucial na identificação e correção de falhas em código.
 
   
-<img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJS"> <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"> <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"> <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"> <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"> <img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab">
+<img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJS"> <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"> <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"> <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"> <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"> <img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab"> <img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="SalesForce">
 
 ## Principais CONTRIBUIÇÕES
 ![Kaution-backend](https://github.com/Coacervados/kaution-backend)
